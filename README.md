@@ -1,27 +1,27 @@
 <h1 align="center">Jonathan Crecencio</h1>
 
 <p align="center">
-  IAM Specialist • Security Engineer • SaaS Builder
+  Especialista em IAM & Segurança • Engenheiro de Soluções • Desenvolvedor SaaS
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Identity+%26+Access+Management;Security+Engineer;Modern+SaaS+Builder;PHP+%7C+React+%7C+Docker+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=Especialista+em+Identity+%26+Access+Management;Segurança+da+Informação+e+Cloud;Desenvolvimento+de+Sistemas+Modernos;PHP+%7C+React+%7C+Docker+%7C+Azure" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Sobre Mim
 
-- 🔐 Specialist in Identity & Access Management (IAM)
-- ☁️ Working with Cloud, Security and Modern Web Platforms
-- 🐳 Docker enthusiast
-- ⚡ Building scalable SaaS products
-- 💻 Focused on PHP, React and automation
-- 🌎 Based in São Paulo - Brazil
+- 🔐 Especialista em Gestão de Identidades e Acessos (IAM)
+- ☁️ Atuação com Segurança, Cloud e Plataformas Modernas
+- 🐳 Utilizando Docker e ambientes escaláveis
+- ⚡ Desenvolvimento de soluções SaaS e automações
+- 💻 Foco em PHP, React e arquitetura web moderna
+- 🌎 São Vicente • São Paulo • Brasil
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tecnologias
 
 <p align="left">
 
@@ -38,35 +38,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joncrecencio&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=joncrecencio&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncrecencio&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncrecencio&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joncrecencio&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=joncrecencio&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joncrecencio&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Contact
+## 🌐 Contato
 
 <p align="left">
 
@@ -75,21 +67,13 @@
 </a>
 
 <a href="mailto:jonathancrecencio@outlook.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
 
 ---
 
-## 👀 Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joncrecencio&label=Profile%20views&color=6366f1&style=flat" />
-</p>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
 </p>
